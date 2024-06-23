@@ -2,15 +2,12 @@
   
 ## Currently studying at Ecole 42 to learn development skills.</span>
 #### "Equipping myself with the necessary tools to bring my ideas and projects to life"
-
+![Texte gris clair](https://img.shields.io/badge/-Stay%20tuned%20for%20more%20upcoming%20projects!-lightgrey?style=for-the-badge)
 </div>
 
 ---
 
 <img src="https://komarev.com/ghpvc/?username=nedulk&color=green" alt="Profile Views" width="150" height="auto">
-
-
-![Texte gris clair](https://img.shields.io/badge/-Stay%20tuned%20for%20more%20upcoming%20projects!-lightgrey?style=for-the-badge)
 
 ### Programming Languages:
 
