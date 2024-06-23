@@ -17,6 +17,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
 
+![img](sci_fi-astronaut-landscape-nasa-space-1522175.jpeg)
+
 ### Contact Me
 
 - **Email**: [nedulkapi@gmail.com](mailto:nedulkapi@gmail.com)
