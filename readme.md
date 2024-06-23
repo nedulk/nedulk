@@ -32,6 +32,6 @@
 
 ### Contact Me
 
-- **Email**: [nedulkapi@gmail.com](mailto:nedulkapi@gmail.com)
-- **LinkedIn**: [my.linkedin.profile](https://linkedin.com/in/your.linkedin.profile)
+✉️ **Email**: [nedulkapi@gmail.com](mailto:nedulkapi@gmail.com)
+
 
