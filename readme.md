@@ -1,9 +1,9 @@
-## I'm currently studying at Ecole 42 to learn development skills. 
+## Currently studying at Ecole 42 to learn development skills. 
 ### Equipping myself with the necessary tools to bring my ideas and projects to life.
 ---
-### Statistics
-
+### Numbers of visitors
 ![Profile Views](https://komarev.com/ghpvc/?username=your_username&color=blue)
+
 
 ### Programming Languages
 
