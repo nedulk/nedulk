@@ -1,8 +1,8 @@
 ## Currently studying at Ecole 42 to learn development skills. 
-### Equipping myself with the necessary tools to bring my ideas and projects to life.
+#### "Equipping myself with the necessary tools to bring my ideas and projects to life"
 ---
-### Numbers of visitors
-![Profile Views](https://komarev.com/ghpvc/?username=your_username&color=blue)
+<img src="https://komarev.com/ghpvc/?username=nedulk&color=green" alt="Profile Views" width="150" height="auto">
+
 
 
 ### Programming Languages
