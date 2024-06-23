@@ -10,6 +10,7 @@
 <img src="https://komarev.com/ghpvc/?username=nedulk&color=green" alt="Profile Views" width="150" height="auto">
 
 
+![Texte bleu](https://img.shields.io/badge/-Stay%20tuned%20for%20more%20upcoming%20projects!-blue?style=for-the-badge)
 
 ### Programming Languages:
 
