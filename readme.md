@@ -12,12 +12,12 @@
 ![Shell Script](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 🛠️ IDEs
+### IDEs
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
 
-### 📫 Contact Me
+### Contact Me
 
 - **Email**: [nedulkapi@gmail.com](mailto:nedulkapi@gmail.com)
 - **LinkedIn**: [my.linkedin.profile](https://linkedin.com/in/your.linkedin.profile)
