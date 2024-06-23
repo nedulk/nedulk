@@ -1,11 +1,10 @@
-## 👋 I'm currently studying at Ecole 42 to learn development skills, equipping myself with the necessary tools to bring my ideas and projects to life.
+## I'm currently studying at Ecole 42 to learn development skills, equipping myself with the necessary tools to bring my ideas and projects to life.
 ---
+### Statistics
 
-### 📊 Statistiques
+![Profile Views](https://komarev.com/ghpvc/?username=your_username&color=blue)
 
-![Profil Views](https://komarev.com/ghpvc/?username=ton_nom_utilisateur&color=blue)
-
-### 💻 Langages de programmation
+### Programming Languages
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -16,17 +15,18 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
-![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
 
-### 📸 Image personnelle
+### 📸 Personal Image
 
 ![Yvan le Chauve](https://path/to/your/image.jpg)
 
 ---
 
-### 📫 Me contacter
+### 📫 Contact Me
 
-- **Email**: [votre.email@example.com](nedulkapi@gmail.com)
-- **LinkedIn**: [votre.profil.linkedin](https://linkedin.com/in/votre.profil)
+- **Email**: [your.email@example.com](mailto:your.email@example.com)
+- **LinkedIn**: [your.linkedin.profile](https://linkedin.com/in/your.linkedin.profile)
 
 ---
+
+Just replace `your_username`, `https://path/to/your/image.jpg`, `your.email@example.com`, and `your.linkedin.profile` with your actual GitHub username, image link, email address, and LinkedIn profile link respectively.
