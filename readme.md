@@ -1,4 +1,5 @@
-![Texte vert](https://img.shields.io/badge/-Currently%20studying%20at%20Ecole%2042%20to%20learn%20development%20skills-green?style=for-the-badge)
+##                      Currently studying at Ecole 42 to learn development skills.</span>
+
 
 
 #### "Equipping myself with the necessary tools to bring my ideas and projects to life"
