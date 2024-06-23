@@ -1,4 +1,6 @@
-## Currently studying at Ecole 42 to learn development skills. 
+![Texte vert](https://img.shields.io/badge/-Currently%20studying%20at%20Ecole%2042%20to%20learn%20development%20skills-green?style=for-the-badge)
+
+
 #### "Equipping myself with the necessary tools to bring my ideas and projects to life"
 ---
 <img src="https://komarev.com/ghpvc/?username=nedulk&color=green" alt="Profile Views" width="150" height="auto">
