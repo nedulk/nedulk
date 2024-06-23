@@ -1,5 +1,5 @@
 ## I'm currently studying at Ecole 42 to learn development skills. 
-# Equipping myself with the necessary tools to bring my ideas and projects to life.
+### Equipping myself with the necessary tools to bring my ideas and projects to life.
 ---
 ### Statistics
 
