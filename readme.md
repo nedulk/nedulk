@@ -1,6 +1,6 @@
 <div align="center">
   
-## Currently studying at Ecole 42 to learn development skills.</span>
+## Currently studying at Ecole 42 </span>
 #### "Equipping myself with the necessary tools to bring my ideas and projects to life"
 ![Texte gris clair](https://img.shields.io/badge/-Stay%20tuned%20for%20more%20upcoming%20projects!-lightgrey?style=for-the-badge)
 </div>
@@ -15,6 +15,8 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ### IDEs:
 
